@@ -40,3 +40,16 @@ This plugin is an unofficial automation tool for WordPress.com interactions.
 Users are responsible for ensuring their use complies with WordPress.com Terms of Service and community guidelines.
 
 The author provides this software as-is without warranty.
+
+## Support
+
+If you encounter an issue:
+
+1. Update to the latest version.
+2. Review TROUBLESHOOTING.md.
+3. Open a GitHub issue.
+4. Include:
+   - Plugin version
+   - WordPress version
+   - PHP version
+   - Relevant log entries
