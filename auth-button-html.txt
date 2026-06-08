@@ -1,0 +1,9 @@
+Optional OAuth Link Template
+
+The plugin generates this link automatically in WordPress Admin after a Client ID is saved.
+
+<a href="https://public-api.wordpress.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&redirect_uri=https%3A%2F%2FYOUR-SITE%2Fwp-admin%2Fadmin-post.php%3Faction%3Drcl_exchange_code&response_type=code">
+  Authorize with WordPress.com
+</a>
+
+Never publish a real token, Client Secret, or OAuth callback URL containing ?code=...
